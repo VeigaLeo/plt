@@ -1,8 +1,7 @@
 import * as aws from "@pulumi/aws";
-import * as AWS from "aws-sdk";
 
 // SQS global config
-export const sqs = new AWS.SQS({
+export const sqs = new aws.sdk.SQS({
   endpoint: "http://localstack:4566",
   region: "us-east-1",
   accessKeyId: "fakeAccessKey",
