@@ -1,4 +1,4 @@
-# Architecture
+# Workflow
 
 ![architecture](https://user-images.githubusercontent.com/38594457/216830010-0b3018b0-8b7c-4ce1-8697-63cab8107d8e.jpg)
 
